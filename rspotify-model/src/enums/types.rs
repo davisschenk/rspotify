@@ -96,6 +96,7 @@ pub enum DeviceType {
     Smartphone,
     Speaker,
     Tv,
+    TV,
     Avr,
     Stb,
     AudioDongle,
